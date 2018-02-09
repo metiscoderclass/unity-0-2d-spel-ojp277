@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 2c50d1da3667e184d917bbb3ab8c4614
+timeCreated: 1517560937
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hoofd
+    21300002: wenkbrouw_links
+    21300004: wenkbrouw_rechts
+    21300006: been_links
+    21300008: been_rechts
+    21300010: onderbeen_links
+    21300012: knuppel
+    21300014: onderbeen_rechts
+    21300016: arm_links
+    21300018: nek
+    21300020: arm_rechts
+    21300022: schoen
+    21300024: onderarm_lins
+    21300026: torso
+    21300028: hand_boven
+    21300030: onderarm_rechts
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hoofd
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 268
+        height: 236
+      alignment: 9
+      pivot: {x: 0.40159577, y: 0.011505256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wenkbrouw_links
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 487
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wenkbrouw_rechts
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 487
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: been_links
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 356
+        width: 109
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5553023, y: 0.90465516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: been_rechts
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 348
+        width: 69
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5109204, y: 0.94170433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: onderbeen_links
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 268
+        width: 46
+        height: 64
+      alignment: 9
+      pivot: {x: 0.72932434, y: 0.8414278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knuppel
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 36
+        height: 324
+      alignment: 9
+      pivot: {x: 0.47906917, y: 0.13022925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: onderbeen_rechts
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 261
+        width: 32
+        height: 66
+      alignment: 9
+      pivot: {x: 0.68837357, y: 0.933831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_links
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: 0.9473878, y: 0.76662153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nek
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 196
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.553821, y: 0.9186088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_rechts
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 48
+        height: 76
+      alignment: 9
+      pivot: {x: 0.076158844, y: 0.75777495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schoen
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 199
+        width: 88
+        height: 38
+      alignment: 9
+      pivot: {x: 0.22600174, y: 0.4603428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: onderarm_lins
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 32
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4529066, y: 0.9651207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 120
+        height: 129
+      alignment: 9
+      pivot: {x: 0.54395396, y: 0.48831803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand_boven
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48116225, y: 0.43150076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: onderarm_rechts
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 16
+        width: 77
+        height: 44
+      alignment: 9
+      pivot: {x: 0.010717219, y: 0.3287514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
